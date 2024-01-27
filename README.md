@@ -1,2 +1,2 @@
-#paradise 
-an anime blog using html, css, javascript and bootstrap
+# paradise
+*an anime blog using html, css, javascript and bootstrap.*
